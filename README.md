@@ -10,7 +10,7 @@ To explore the fractal, you can change the scale and zoom.
 
 ## Software
 
-C++, SFML library, Thread lib
+C++, Qt, SFML library, Thread lib
 
 These are some examples:
 
