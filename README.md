@@ -2,7 +2,7 @@
 
 ## Description 
 
-This software draws and helps to explore beautiful fractals.
+This software draws and helps in exploring beautiful fractals.
 
 To explore the fractal, you can change the scale and zoom.
 
